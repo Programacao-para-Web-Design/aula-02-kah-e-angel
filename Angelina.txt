@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+ <html lang ="pt-Br">
+<head>
+ <meta charset="utf-8">
+<title> angelina </title>
+</head>
+<body>
+</body>
+</html>
+
+<!DOCTYPE html>
+ <html lang ="pt-Br">
+<head> 
+  <meta charset ="utf-8">
+<title> angelina </title>
+</head> 
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE  html>
+<html lang ="pt-br">
+<head>
+<meta charset ="utf-8">
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE  html>
+<html lang ="pt-br">
+<head>
+<meta charset ="utf-8">
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+<!DOCTYPE  html>
+<html lang ="pt-Br">
+<head>
+<meta charset ="utf-8">
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang ="pt-br">
+<head> 
+<meta charset ="utf-8>
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+<!DOCTYPE html >
+<html lang = "pr-br">
+<head>
+<meta charset= "utf-8">
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang ="pt-br">
+<head> 
+<meta charset ="utf-8>
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang= "pt-br">
+<head>
+<meta charset ="utf-8">
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang ="pt-br">
+<head>
+<meta charset ="utf-8">
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+
